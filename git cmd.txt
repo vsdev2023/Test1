@@ -1,8 +1,8 @@
  
 
-git config --global user.name "Suraj M"
- git config --global user.email "surajmandlik5@gmail.com"
- git config --global user.password "Scipl@123"
+git config --global user.name "user name"
+ git config --global user.email "user@gmail.com"
+ git config --global user.password "pass"
 
  git init
  git add .
